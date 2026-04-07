@@ -8,6 +8,8 @@
 
 🔍 Open to Software Engineer / Backend Engineer roles
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,spring,nodejs,express,react,html,tailwind,fastapi,postgres,mysql,git,docker,github,firebase,postman,azure)](https://skillicons.dev)
+
 ---
 
 ## 🏆 Competitive Programming
