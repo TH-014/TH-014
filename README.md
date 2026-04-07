@@ -13,11 +13,13 @@
 ## 🏆 Competitive Programming
 
 | Platform | Handle | Max Rating |
+| --- | --- | --- |
 | Codeforces | [l0st_c0der](https://codeforces.com/profile/l0st_c0der) | Expert — **1617** |
 | CodeChef | [mini_pekka](https://www.codechef.com/users/mini_pekka) | 4★ — **1907** |
 | LeetCode | [thb_014](https://leetcode.com/u/thb_014/) | **1653** |
 
 🥇 Ranked **Top 60** — ICPC Dhaka Regional 2023
+
 📚 Solved **1000+** problems across CF, CodeChef, CSES, AtCoder, SPOJ, Leetcode
 
 ---
@@ -82,4 +84,4 @@ and designing a multi-agent pipeline to improve detection accuracy.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TH-014)
 
-📧 [![tanvir.75011@gmail.com]](mailto:tanvir.75011@gmail.com)
+📧 [tanvir.75011@gmail.com](mailto:tanvir.75011@gmail.com)
