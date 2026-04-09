@@ -20,7 +20,11 @@
 | CodeChef | [mini_pekka](https://www.codechef.com/users/mini_pekka) | 4★ — **1907** |
 | LeetCode | [thb_014](https://leetcode.com/u/thb_014/) | **1653** |
 
-🥇 Ranked **Top 60** — ICPC Dhaka Regional 2023
+🏅 Ranked **Top 60** — ICPC Dhaka Regional 2023
+
+🏅 Ranked **34th** — BUET Inter University Programming Contest 2023
+
+🏅 Ranked **Top 50** — BUET Inter University Programming Contest 2024
 
 📚 Solved **1000+** problems across CF, CodeChef, CSES, AtCoder, SPOJ, Leetcode
 
@@ -55,6 +59,12 @@
 - Complete compiler for a C subset: lexer, parser, type checking, code generation
 
 - Produces 8086 assembly with DAG-based optimizations
+
+- **Lexical & Syntax Analysis**: Implemented a Lexer using Flex and an LR Parser using Bison to handle Context-Free Grammars (CFG)
+  
+- **Semantic Analysis**: Engineered symbol table management for scope resolution and strict type checking.
+  
+- **Code Generation**: Constructed Abstract Syntax Trees (AST) and generated 8086 Assembly Intermediate Code (IR).
 
 ### [Smart Inventory Management System](https://github.com/TH-014/Inventory)
 
