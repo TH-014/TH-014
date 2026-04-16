@@ -52,6 +52,8 @@
 
 - Role-based access control, CI/CD via GitHub Actions, deployed on Azure VM
 
+---
+
 ### [C Compiler: Lex/Yacc → 8086 Assembly](https://github.com/TH-014/CSE_310_Compiler)
 
 `C` `Flex` `Bison` `Compiler Design`
@@ -66,17 +68,53 @@
   
 - **Code Generation**: Constructed Abstract Syntax Trees (AST) and generated 8086 Assembly Intermediate Code (IR).
 
+---
+
 ### [Smart Inventory Management System](https://github.com/TH-014/Inventory)
 
 `Node.js` `Express.js` `React.js` `Oracle SQL` `Firebase`
 
 - Web-based inventory platform with real-time data and Firebase auth
 
+---
+
 ### [Bangla Fake News Detection (BanglaBERT)](https://github.com/TH-014/banglaFakeNewsDetection)
 
 `Python` `Transformers` `NLP`
 
 - Fine-tuning transformer models for Bangla fake news classification
+
+---
+
+### [Artificial Intelligence Sessional Projects](https://github.com/TH-014/CSE_318_AI)
+
+`C++` `Java` `A*` `Minimax` `Alpha-Beta Pruning` `TSP` `Decision Trees`
+
+- Implemented A* search for n-puzzle with Hamming & Manhattan heuristics and solvability detection  
+- Built a Mancala-playing agent using Minimax with Alpha-Beta pruning and custom evaluation functions  
+- Solved TSP using greedy heuristics and local search (2-opt, 3-opt, randomized variants)  
+- Developed a decision tree classifier using Information Gain and Gini Impurity  
+
+---
+
+### [Operating Systems Sessional Projects](https://github.com/TH-014/CSE_314_OS)
+
+`C` `Bash` `xv6` `RISC-V` `QEMU`
+
+- Extended xv6 kernel with custom system calls (`trace`, `sysinfo`) for process monitoring  
+- Implemented synchronization solutions using semaphores and mutexes (deadlock-safe)  
+- Modified scheduler with advanced policies (MLFQ, priority scheduling)  
+- Designed paging and memory management with page replacement algorithms  
+
+---
+
+### [Computer Graphics Projects](https://github.com/TH-014/CSE_410_Graphics)
+
+`C++` `OpenGL` `GLM` `Ray Tracing`
+
+- Built interactive 3D scenes with custom camera controls and geometric modeling  
+- Implemented full software rasterization pipeline with transformations and Z-buffering  
+- Developed a recursive ray tracer with Phong lighting, shadows, reflections, and textures
 
 ---
 
