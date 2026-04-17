@@ -18,7 +18,7 @@
 | --- | --- | --- |
 | Codeforces | [l0st_c0der](https://codeforces.com/profile/l0st_c0der) | Expert — **1617** |
 | CodeChef | [mini_pekka](https://www.codechef.com/users/mini_pekka) | 4★ — **1907** |
-| LeetCode | [thb_014](https://leetcode.com/u/thb_014/) | **1653** |
+| LeetCode | [thb_014](https://leetcode.com/u/thb_014/) | **1723** |
 
 🏅 Ranked **Top 60** — ICPC Dhaka Regional 2023
 
