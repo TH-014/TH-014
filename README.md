@@ -20,11 +20,11 @@
 | CodeChef | [mini_pekka](https://www.codechef.com/users/mini_pekka) | 4★ — **1907** |
 | LeetCode | [thb_014](https://leetcode.com/u/thb_014/) | **1723** |
 
-🏅 Ranked **Top 60** — ICPC Dhaka Regional 2023
+🏅 Ranked **Top 60** — ICPC Dhaka Regional 2023 - [ICPCID](https://icpc.global/ICPCID/J90BD1BL6OZ4)
 
 🏅 Ranked **34th** — BUET Inter University Programming Contest 2023
 
-🏅 Ranked **Top 50** — BUET Inter University Programming Contest 2024
+🏅 Ranked **55th** — BUET Inter University Programming Contest 2024
 
 📚 Solved **1000+** problems across CF, CodeChef, CSES, AtCoder, SPOJ, Leetcode
 
@@ -118,9 +118,9 @@
 
 ---
 
-## 🔬 Ongoing Research
+## 🔬 Undergraduate Thesis
 
-**Detecting Security Vulnerabilities Using LLMs**
+**Security Vulnerability Detection through Context Extraction and Structured Decision-Making Using Multi-Agent Architecture**
 Evaluating LLMs on vulnerability datasets, analyzing failure patterns,
 and designing a multi-agent pipeline to improve detection accuracy.
 
