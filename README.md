@@ -1,8 +1,8 @@
 # Hi, I'm Tanvir Hossain 👋
 
-🎓 Final year CSE @ **BUET**
+🎓 **BUET CSE** Graduate
 
-💼 Software Engineering Intern @ **Intellesphere**
+💼 Ex - Software Engineering Intern @ **Intellesphere** (Feb 2026 - April 2026)
 
 ⚡ Competitive Programmer | 1000+ problems solved
 
@@ -115,6 +115,14 @@
 - Built interactive 3D scenes with custom camera controls and geometric modeling  
 - Implemented full software rasterization pipeline with transformations and Z-buffering  
 - Developed a recursive ray tracer with Phong lighting, shadows, reflections, and textures
+
+### Smart Automated Parking System
+
+`ATmega32` `ESP8266 NodeMCU` `RFID` `IR Sensors` `LCD Display` `Servo Motor` `Embedded Systems`
+
+- Developed an automated parking management system with smart vehicle detection and automated gate control
+- Integrated multiple IR sensors, RFID-based transaction handling, LCD display modules, and motorized barriers
+- Built communication between embedded controllers and a backend transaction management system
 
 ---
 
